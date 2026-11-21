@@ -1,6 +1,4 @@
 # Project 15: Movie Theater Box Office & Concession Analysis
-# Uses pandas and numpy for the analysis
-# (matplotlib is only used at the end to draw the graphs)
 
 import pandas as pd
 import numpy as np
